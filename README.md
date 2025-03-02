@@ -42,9 +42,9 @@ Make sure you have Python installed. You can download it from [python.org](https
 6. Use "Exit" to close the application.
 
 **Contributors**
-AFZA SHARIFF
-BINDU G
-B N KUSHAL
+1) AFZA SHARIFF
+2) BINDU G
+3) B N KUSHAL
 
 ## Contributing
 Feel free to fork the repository and contribute improvements!
