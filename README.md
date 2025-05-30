@@ -19,17 +19,11 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 ## Installation
 1. **Clone the repository**
-   ```bash
    git clone https://github.com/kushal1929/Text_Cryption.git
-   ```
+
 2. **Navigate to the project directory**
-   ```bash
-   cd Text_Cryption
-   ```
+   
 3. **Run the Python script**
-   ```bash
-   python text_cryption.py
-   ```
 
 ## How to Use
 1. **Enter your message** in the text box.
@@ -40,11 +34,6 @@ Make sure you have Python installed. You can download it from [python.org](https
 4. Click "Show Message" to see the result.
 5. Use "Reset" to clear all fields.
 6. Use "Exit" to close the application.
-
-**Contributors**
-1) AFZA SHARIFF
-2) BINDU G
-3) B N KUSHAL
 
 ## Contributing
 Feel free to fork the repository and contribute improvements!
